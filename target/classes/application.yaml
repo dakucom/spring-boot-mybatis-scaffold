@@ -31,4 +31,4 @@ mybatis:
   configuration:
     map-underscore-to-camel-case: true #驼峰命名
   type-aliases-package: com.dakuzai.pojo #扫描包
-  mapper-locations: classpath:com/dakuzai/mapper/xml/*.xml #扫描mapper配置文件
+  mapper-locations: classpath:com/dakuzai/mapper/xml/*.xml  #扫描mapper配置文件
